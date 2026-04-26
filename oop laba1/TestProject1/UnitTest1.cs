@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace TestProject2
+namespace TestProject1
 {
     public class MatrixTests
     {
